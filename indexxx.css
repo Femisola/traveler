@@ -9,7 +9,7 @@ body{
     width: 100% ;
     min-height: 100vh ;
     line-height: 1.4 ;
-    background-image: url('/img/bodyimage.jpg');
+    background-image: url('img/bodyimage.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100%;
@@ -179,7 +179,7 @@ input:focus{
 
 .tourist{
     flex: 1;
-    background: url('/img/section2.jpg');
+    background: url('img/section2.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -212,7 +212,7 @@ input:focus{
 
 .flight{
     flex: 1;
-    background: url('/img/flight.jpg');
+    background: url('img/flight.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
